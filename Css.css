@@ -25,6 +25,10 @@ section.img{background-image: url(network-g8e7b6b61f1920.jpg);
       border: double;
       background-color: white;
        padding: 500x;}
+.img-1{padding: 50px;
+        border: double;
+        background-color: white;
+         padding: 500x;}
 footer.footer{background-image: url(network-g8e7b6b61f1920.jpg);
                               padding: 30px;
                               margin: 15px; }
@@ -42,6 +46,10 @@ section.img0{background-image: url(network-g8e7b6b61f1920.jpg);
       text-align: center;}
 
 .img6{padding: 50px;
+        border: double;
+        background-color: white;
+        text-align: center;}
+.img7{padding: 50px;
         border: double;
         background-color: white;
         text-align: center;}
